@@ -6,11 +6,11 @@ The pflegal docsites will
 navigate you structuredly through the different projects. 
 This Page is based on the skeleton of the **Docsy Example Project**.
 
-## Using the Docsy Example Project as a template for a website
+### Using the Docsy Example Project as a template for a website
 
 ## Running the website locally 
 
-### running online
+## running online
 
 ## To-do
  
